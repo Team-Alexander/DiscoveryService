@@ -1,4 +1,4 @@
-package com.uptalent.discovery;
+package io.github.uptalent.discovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
